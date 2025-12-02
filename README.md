@@ -31,7 +31,8 @@ The dataset includes the following fields:
 - **Feedback Comment**  
 - **Sentiment (Positive / Neutral / Negative)** ← created during data transformation  
 
-📁 Dataset file: `Dataset/dataset.xlsx`
+📁 Dataset file:[dataset.xlsx](https://github.com/AkshayRathod22/Cafeteria-Feedback-Dashboard/blob/main/Dataset/dataset.xlsx)
+
 
 ---
 
