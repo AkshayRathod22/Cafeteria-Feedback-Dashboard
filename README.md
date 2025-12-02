@@ -67,18 +67,22 @@ The dataset includes the following fields:
 ## 📊 Dashboard / Model / Output  
 
 ### Dashboard Preview  
-![Dashboard Preview](Screenshot/Screenshot%202025-12-01%20202515.png)
+![Dashboard Preview](https://github.com/AkshayRathod22/Cafeteria-Feedback-Dashboard/blob/main/Screenshot/dashboard_preview.png)
 
-📁 Dashboard file: `Dashboard/Dashboard_Cafeteria_Rating.xlsx`
+
+📁 Dashboard file: [Dashboard_Cafeteria_Rating.xlsx](https://github.com/AkshayRathod22/Cafeteria-Feedback-Dashboard/blob/main/Dashboard/Dashboard_Cafeteria_Rating.xlsx)
+
 
 ---
 
 ## ▶️ How to Run This Project  
 1. Download or clone the repository  
 2. Open the dataset:  
-   `Dataset/dataset.xlsx`  
+   [dataset.xlsx](https://github.com/AkshayRathod22/Cafeteria-Feedback-Dashboard/blob/main/Dataset/dataset.xlsx)
+  
 3. Open the dashboard file:  
-   `Dashboard/Dashboard_Cafeteria_Rating.xlsx`  
+   [Dashboard_Cafeteria_Rating.xlsx](https://github.com/AkshayRathod22/Cafeteria-Feedback-Dashboard/blob/main/Dashboard/Dashboard_Cafeteria_Rating.xlsx)
+  
 4. Use slicers (Month, Sentiment, Date) to explore feedback  
 5. View KPIs and charts to understand sentiment trends  
 
